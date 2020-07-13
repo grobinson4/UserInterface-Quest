@@ -1,4 +1,4 @@
-#Mon Jul 13 11:40:27 EDT 2020
+#Mon Jul 13 15:27:25 EDT 2020
 base.0=C\:\\Users\\v-garyr\\Documents\\RobinsonTech\\VR\\UserInterface-Quest\\UserInterface-Quest\\UserInterface-Quest\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex

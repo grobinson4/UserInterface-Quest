@@ -5,6 +5,8 @@ using UnityEngine;
 public class AppManager : MonoBehaviour
 {
     private GameObject messageText;
+    //private GameObject hands;
+    //private GameObject UIHelpers;
 
     private void Awake()
     {
@@ -21,4 +23,5 @@ public class AppManager : MonoBehaviour
     {
         
     }
+
 }
